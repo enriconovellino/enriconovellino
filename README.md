@@ -1,6 +1,8 @@
 ## Hi there 👋, my name is Enrico Novellino, I'm in my third semester of computer science.
-I'm 19👴
-I have been studying computer science for a year and a half📆
+
+## I'm 19👴
+
+## I have been studying computer science for a year and a half📆
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/enriqueiroz_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:enrico.guimaraes1103@gmail.com) 
