@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Enrico Novellino, I'm in my third semester of computer science.
-## I'm 19 👴
-## I have been studying computer science for a year and a half 📆
+I'm 19👴
+I have been studying computer science for a year and a half📆
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/enriqueiroz_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:enrico.guimaraes1103@gmail.com) 
@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=enriconovellino&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=enriconovellino&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=enriconovellino&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=enriconovellino&limit=5&theme=holi&combine_all_yearly_contributions=true)
