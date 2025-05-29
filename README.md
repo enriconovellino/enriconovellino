@@ -37,9 +37,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enriconovellino&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enriconovellino&theme=graywhite&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enriconovellino&theme=graywhite&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=enriconovellino&theme=holi&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enriconovellino&theme=holi&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enriconovellino&theme=holi&hide_border=false&layout=compact" />
 </p>
 
 ---
