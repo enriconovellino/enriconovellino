@@ -26,9 +26,9 @@
 
 ### 📊 GitHub Stats
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enriconovellino&theme=graywhite&hide_border=false&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enriconovellino&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=enriconovellino&theme=graywhite&hide_border=false)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enriconovellino&theme=graywhite&hide_border=false&layout=compact)
 
 ---
 
@@ -37,7 +37,3 @@
 ![Top Repos](https://github-contributor-stats.vercel.app/api?username=enriconovellino&limit=5&theme=graywhite&combine_all_yearly_contributions=true)
 
 ---
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=enriconovellino&icon=5&color=121212)
-
-<!-- Designed with ❤️ and a clean gray aesthetic -->
