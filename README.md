@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Enrico Novellino
 
-🎓 I'm currently in my **third semester** of Computer Science.  
+🎓 I'm currently in my **fourth semester** of Computer Science.  
 👴 I'm **19 years old**.  
 📆 I've been studying Computer Science for **1.5 years**.
 
